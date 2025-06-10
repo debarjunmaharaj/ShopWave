@@ -117,7 +117,7 @@ This project was created by and is copyrighted to **Debarun Chakraborty**.
 The code is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ```text
-Copyright (c) 2023 Debarun Chakraborty
+Copyright (c) 2025 Debarun Chakraborty
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
